@@ -1,14 +1,8 @@
 <h2 align="left">Hi 👋! My name is Thiago Coutinho<br><br>I'm a Full Stack Developer, from São Paulo</h2>
 
-###
-
-<img align="right" height="150" src="https://media.tenor.com/bQCwwu0yF90AAAAi/developer-workstation.gif"  />
-
-###
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=thi-coutinho" height="150" width="360" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=thi-coutinho" height="150" width="360" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=thi-coutinho" height="150"  alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=thi-coutinho" height="150"  alt="languages graph"  />
 </div>
 
 ###
