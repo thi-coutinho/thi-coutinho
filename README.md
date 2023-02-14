@@ -1,4 +1,10 @@
-<h2 align="center">Hi 👋! My name is Thiago Coutinho<br><br> </h2><h3>I'm a <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=-apple-system&weight=1200&size=18&pause=1000&color=24292F&center=true&vCenter=true&width=220&height=25&lines=Full+Stack+Developer;Software+Engineer;Learning+Enthusiast;Physicist" alt="Typing SVG" /></a>, from São Paulo</h3>
+<h2 align="center">Hi 👋! My name is Thiago Coutinho<br><br> </h2>
+
+<h3 style="font-size:34px;">I'm a 
+  <a href="https://git.io/typing-svg">
+    <img align="center" src="https://readme-typing-svg.demolab.com?font=-apple-system&weight=1200&size=18&pause=1000&color=24292F&center=true&vCenter=true&width=220&height=20&lines=Full+Stack+Developer;Software+Engineer;Learning+Enthusiast;Physicist" alt="Typing SVG" />
+  </a>, from São Paulo
+</h3>
 
 ###
 
