@@ -2,7 +2,7 @@
 
 <h3 style="line-height:20px;">I'm a 
   <a href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=18&pause=1000&color=24292F&center=false&vCenter=true&width=170&height=20&lines=Full+Stack+Developer;Software+Engineer;Learning+Enthusiast;Physicist" alt="Typing SVG" />
+    <img align="center" src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=18&pause=800&color=ff79c6&center=false&vCenter=true&width=170&height=20&lines=Full+Stack+Developer;Software+Engineer;Learning+Enthusiast;Physicist" alt="Full Stack Developer" />
   </a>, from São Paulo
 </h3>
 
@@ -40,12 +40,12 @@
 ###
 <a href="https://github.com/anuraghazra/github-readme-stats">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thi-coutinho&show_icons=true&theme=dracula&line_height=35"/>
+<img align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=thi-coutinho&show_icons=true&theme=dracula&line_height=35"/>
 </a>
 &nbsp &nbsp &nbsp &nbsp
 <a href="https://github.com/anuraghazra/github-readme-stats">
 
-<img style="margin-left:10px" align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=thi-coutinho&show_icons=true&theme=dracula&card_width=467" />
+<img style="margin-left:10px" align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=thi-coutinho&show_icons=true&theme=dracula&card_width=400&layout=compact" />
 </a>
 
 ###
