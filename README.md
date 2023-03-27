@@ -38,11 +38,12 @@
 </div>
 
 ###
-
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=thi-coutinho" height="150"  alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=220&langs_count=5&theme=dracula&hide_border=false&username=thi-coutinho" height="150"  alt="languages graph"  />
+
+[![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thi-coutinho&show_icons=true&theme=dracula)](https://github.com/thi-coutinho/github-readme-stats)
+
+[![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=thi-coutinho&show_icons=true&theme=dracula&hide_title=true&layout=compact&card_width=467)](https://github.com/thi-coutinho/github-readme-stats)
+
 </div>
 
 ###
